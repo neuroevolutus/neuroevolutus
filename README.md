@@ -1,10 +1,5 @@
 # About Me
-My name is Abel Sen, and I am interested in web development, functional programming and systems languages.
+My name is Abel Sen, and I am interested in functional programming and systems languages.
 
 ## What I'm Reading Right Now
-* *[Javascript.Info](https://javascript.info/)*
-* *Visual Category Theory Brick by Brick* by Dmitry Vostokov
-
-## What's Next on my Reading List
-* *CSS in Depth* by Keith J. Grant
-* *Elm in Action* by Richard Feldman
+* The Haskell Wikibook
